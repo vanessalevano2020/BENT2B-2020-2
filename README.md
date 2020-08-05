@@ -12,3 +12,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el proyecto en n
 
 - Daniel Guzman, dguzman-ort
 - Tomas Kouba, gituser-tkouba
+- Ricardo Capelli, rcapelli
