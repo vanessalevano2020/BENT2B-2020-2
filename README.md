@@ -7,6 +7,7 @@ Para iniciar con este proyecto, es necesario que todos tengamos el proyecto en n
 
 - Hacer un FORK de este repositorio (con sus cuentas de github personales/estudiantiles).
 - Editar este archivo README.md y agregar en el siguiente listado su `nombre`, `apellido` y `usuario github`
+- Hacer Pull Request a dguzman-ort:master
 
 ## Listado de participantes:
 
