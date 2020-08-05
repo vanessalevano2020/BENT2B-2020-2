@@ -15,3 +15,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el proyecto en n
 - Ricardo Capelli, rcapelli
 - Andres Teixido, ANDRES-TEIXIDO
 - Allan Malcolm, amalcolm93
+- Cristian Ciz, Cristant92
